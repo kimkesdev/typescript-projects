@@ -4,7 +4,7 @@
   "description": "## Todo App 1. npm init -y - Creates package.json 2. npm i --save-dev typescript     3. npx tsc --init",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "tsc --watch"
   },
   "keywords": [],
   "author": "",
